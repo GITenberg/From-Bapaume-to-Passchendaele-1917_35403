@@ -1,0 +1,31 @@
+_repo: From-Bapaume-to-Passchendaele-1917_35403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbs, Philip
+    aliases:
+    - Gibbs, Philip Hamilton, Sir
+    - Gibbs, Phillip
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '1174'
+    url: http://www.gutenberg.org/2009/agents/1174
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
+description: ''
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- !lcc 'D501'
+title: From Bapaume to Passchendaele, 1917
+url: http://www.gutenberg.org/ebooks/35403
